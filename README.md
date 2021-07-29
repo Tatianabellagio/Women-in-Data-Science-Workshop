@@ -1,6 +1,6 @@
 # Women-in-Data-Science-Workshop
 The 5th of march we have presented (two other female coworkers and me) a workshop of data visualization with python. 
-link to the event https://metcba.org/
+link to the event https://metcba.org/wids
 
 The datasets description and the whole analysis are included in the jupyter notebook. 
 The idea of the exploration was to get insight about the relationship between gender and people working in areas related to science and techonology in Argentina. 
